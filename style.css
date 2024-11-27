@@ -386,3 +386,18 @@ nav ul li a:hover {
         width: 56px;
         height: auto;
     }
+
+    .table {
+        display: table;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .table th, .table td {
+        border: #000000 1px solid;
+        padding: 0.1rem;
+    }
+    .table th {
+        background-color: #000000;
+        color: #fff;
+    }
